@@ -1,6 +1,0 @@
-[
-    {"type_id":1, "type_name": "Troop", "cards": ["1","2","3","4","5"]},
-    {"type_id":2, "type_name": "Building", "cards": ["1","2","6","7"]},
-    {"type_id":3, "type_name": "Spell", "cards": ["8","9","10"]}
-
-]

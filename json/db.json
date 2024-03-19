@@ -1,5 +1,6 @@
-[
-    {
+{
+    "Cards":[
+        {
         "id": "1",
         "card_name": "Knight",
         "elixir": 3,
@@ -88,4 +89,12 @@
         "arena": 11,
         "card_description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
         "type_id": ["3"]
-    }]
+    }
+],
+
+    "Type": [
+            {"type_id":1, "type_name": "Troop", "cards": ["1","2","3","4","5"]},
+            {"type_id":2, "type_name": "Building", "cards": ["1","2","6","7"]},
+            {"type_id":3, "type_name": "Spell", "cards": ["8","9","10"]}
+        ]
+}
