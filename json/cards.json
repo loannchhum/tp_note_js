@@ -1,0 +1,91 @@
+[
+    {
+        "id": "1",
+        "card_name": "Knight",
+        "elixir": 3,
+        "rarity": "Common",
+        "arena": 0,
+        "card_description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
+        "type_id": ["1", "2"]
+        },
+    {
+        "id": "2",
+        "card_name": "Archers",
+        "elixir": 3,
+        "rarity": "Common",
+        "arena": 0,
+        "card_description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
+        "type_id": ["1", "2"]
+    },
+    {
+        "id": "3",
+        "card_name": "Goblins",
+        "elixir": 2,
+        "rarity": "Common",
+        "arena": 1,
+        "card_description": "Four fast, unarmored melee attackers. Small, fast, green and mean!",
+        "type_id": ["1"]
+    },
+    {
+        "id": "4",
+        "card_name": "Giant",
+        "elixir": 5,
+        "rarity": "Rare",
+        "arena": 0,
+        "card_description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
+        "type_id": ["1"]
+    },
+    {
+        "id":"5",
+        "card_name": "P.E.K.K.A",
+        "elixir": 7,
+        "rarity": "Epic",
+        "arena": 6,
+        "card_description": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
+        "type_id": ["1"]
+    },
+    {
+        "id": "6",
+        "card_name": "Minions",
+        "elixir": 3,
+        "rarity": "Common",
+        "arena": 0,
+        "card_description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
+        "type_id": ["2"]
+    },
+    {
+        "id": "7",
+        "card_name": "Balloon",
+        "elixir": 5,
+        "rarity": "Epic",
+        "arena": 7,
+        "card_description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
+        "type_id": ["2"]
+    },
+    {
+        "id": "8",
+        "card_name": "Witch",
+        "elixir": 5,
+        "rarity": "Epic",
+        "arena": 6,
+        "card_description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
+        "type_id": ["3"]
+    },
+    {
+        "id": "9",
+        "card_name": "Barbarians",
+        "elixir": 5,
+        "rarity": "Common",
+        "arena": 3,
+        "card_description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
+        "type_id": ["3"]
+    },
+    {
+        "id": "10",
+        "card_name": "Electro Wizard",
+        "elixir": 4,
+        "rarity": "Legendary",
+        "arena": 11,
+        "card_description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
+        "type_id": ["3"]
+    }]
