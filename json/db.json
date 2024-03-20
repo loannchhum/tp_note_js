@@ -7,7 +7,8 @@
         "rarity": "Common",
         "arena": 0,
         "card_description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-        "type_id": ["1", "2"]
+        "type_id": ["1", "2"],
+        "img": "knight.png"
         },
     {
         "id": "2",
@@ -16,7 +17,8 @@
         "rarity": "Common",
         "arena": 0,
         "card_description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
-        "type_id": ["1", "2"]
+        "type_id": ["1", "2"],
+        "img": "archer.png"
     },
     {
         "id": "3",
@@ -25,7 +27,8 @@
         "rarity": "Common",
         "arena": 1,
         "card_description": "Four fast, unarmored melee attackers. Small, fast, green and mean!",
-        "type_id": ["1"]
+        "type_id": ["1"],
+        "img": "goblins.png"
     },
     {
         "id": "4",
@@ -34,7 +37,8 @@
         "rarity": "Rare",
         "arena": 0,
         "card_description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
-        "type_id": ["1"]
+        "type_id": ["1"],
+        "img": "giant.png"
     },
     {
         "id":"5",
@@ -43,7 +47,8 @@
         "rarity": "Epic",
         "arena": 6,
         "card_description": "A heavily armored, slow melee fighter. Swings from the hip, but packs a huge punch.",
-        "type_id": ["1"]
+        "type_id": ["1"],
+        "img": "pekka.png"
     },
     {
         "id": "6",
@@ -52,7 +57,8 @@
         "rarity": "Common",
         "arena": 0,
         "card_description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
-        "type_id": ["2"]
+        "type_id": ["2"],
+        "img": "minion.png"
     },
     {
         "id": "7",
@@ -61,7 +67,8 @@
         "rarity": "Epic",
         "arena": 7,
         "card_description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
-        "type_id": ["2"]
+        "type_id": ["2"],
+        "img": "chr_balloon.png"
     },
     {
         "id": "8",
@@ -70,7 +77,8 @@
         "rarity": "Epic",
         "arena": 6,
         "card_description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
-        "type_id": ["3"]
+        "type_id": ["3"],
+        "img": "witch.png"
     },
     {
         "id": "9",
@@ -79,7 +87,8 @@
         "rarity": "Common",
         "arena": 3,
         "card_description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
-        "type_id": ["3"]
+        "type_id": ["3"],
+        "img": "barbarian_card.png"
     },
     {
         "id": "10",
@@ -88,7 +97,18 @@
         "rarity": "Legendary",
         "arena": 11,
         "card_description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
-        "type_id": ["3"]
+        "type_id": ["3"],
+        "img": "electro_wizard.png"
+    },
+    {
+        "id": "11",
+        "card_name": "Lumberjack",
+        "elixir": 4,
+        "rarity": "Legendary",
+        "arena": 13,
+        "card_description": "looooog",
+        "type_id": ["1"],
+        "img": "lumberjack.png"
     }
 ],
 
