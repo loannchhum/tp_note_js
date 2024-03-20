@@ -6,8 +6,9 @@ export default class Cards{
     #arena="";
     #card_description="";
     #type_id=[];
+    #img="";
     
-    constructor(id, card_name, elixir, rarity, arena, card_description, liste_type_id){
+    constructor(id, card_name, elixir, rarity, arena, card_description, liste_type_id, img){
         this.#id = id;
         this.#card_name = card_name;
         this.#elixir = elixir;
@@ -15,9 +16,13 @@ export default class Cards{
         this.#arena = arena;
         this.#card_description = card_description;
         this.#type_id = liste_type_id;
+        this.#img = img;
     }
     get id(){
         return this.#id;
+    }
+    get img(){
+        return this.#img;
     }
     get card_name(){
         return this.#card_name;
